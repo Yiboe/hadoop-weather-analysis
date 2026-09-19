@@ -1,0 +1,22 @@
+# Maven and Java build output
+target/
+*.class
+*.jar
+
+# IDE metadata
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Local data and submitted course documents
+/data.txt
+/*.docx
+
+# Local environment and operating-system files
+.env
+*.log
+.DS_Store
+Thumbs.db
